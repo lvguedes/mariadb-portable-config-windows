@@ -1,0 +1,1 @@
+mysqladmin.exe --user=root  --password=agr4321 shutdown
